@@ -13,8 +13,8 @@
 * ### _Порождающие шаблоны (Creational): создание новых объектов._
 
 1. Конструктор (Constructor) [Example](https://github.com/IliaSNK/JS_Patterns/blob/master/1_creational/1_constructor.js)
-2. Модульный (Module)
-3. Фабрика (Factory)
+2. Модульный (Module) [Example](https://github.com/IliaSNK/JS_Patterns/blob/master/1_creational/2_module.js)
+3. Фабрика (Factory) [Example](https://github.com/IliaSNK/JS_Patterns/blob/master/1_creational/3_factory.js)
 4. Синглтон(Singletion)
 
 * ### _Структурные шаблоны(Structural): упорядочивают объекты._
